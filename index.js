@@ -34,6 +34,11 @@ let notes = [
         id: 4,    
         content: "Frontend and Backend are both Fullstack",    
         important: true  
+    },
+    {
+        id: 5,
+        content: "Javascript is not Java",
+        important: false
     }
 ]
 
